@@ -1,0 +1,16 @@
+save animal.pl file in your folder
+cd folder    (where .pl file exists)
+then type in terminal
+
+  swipl animal.pl                  // command
+    
+  welcome message should appear
+then type
+
+  go.                           // command
+  
+then type yes or no acc to question ending with dot(.)
+
+  y.   // or n.                      // command
+  
+keep giving command y. or n. until true or false doesn't appear               // output
